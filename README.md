@@ -80,5 +80,5 @@ Please feel free to merge a PR or reccomendation through comments below. Any adv
 - Predict Political Party
 - Fire Detection Project
 
-# Reference Link
+# Inspirational Reference Link
 https://www.udemy.com/course/machinelearning/
