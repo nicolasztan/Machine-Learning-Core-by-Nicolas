@@ -76,6 +76,7 @@ Please feel free to merge a PR or reccomendation through comments below. Any adv
 -Keras-CNN
 
 #### Personal Projects Inspired By This Course
+(Please View in SubBranches)
 - Handwriting Recognition
 - Predict Political Party
 - Fire Detection Project
